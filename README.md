@@ -1,6 +1,6 @@
 ## <a href="https://felipesimon.github.io/festival/">Festival "transformador"</a>
 
-O projeto é uma landing page do pré lançamento da venda de ingressos de um festival de música eletrônica.
+O projeto é uma landing page da pré-venda de ingressos de um festival de música eletrônica.
 
 A idéia é apresentar um formulário simples de cadastro para contato futuro. 
 
